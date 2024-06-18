@@ -29,7 +29,7 @@ Install the required Python libraries using pip:
 
 #### Step 3: Download ChromeDriver
 
-Download the ChromeDriver that matches your version of Google Chrome from the ChromeDriver download page.
+Download the ChromeDriver that matches your version of Google Chrome from the ChromeDriver [download page](https://googlechromelabs.github.io/chrome-for-testing/#stable).
 
 - Unzip the downloaded file.
 - Move the chromedriver file to a folder where you will place your Python script and companies.txt file.
